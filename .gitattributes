@@ -1,0 +1,16 @@
+*.bsp filter=lfs diff=lfs merge=lfs -binary
+*.rmf filter=lfs diff=lfs merge=lfs -binary
+*.res filter=lfs diff=lfs merge=lfs -binary
+*.nav filter=lfs diff=lfs merge=lfs -binary
+*.wav filter=lfs diff=lfs merge=lfs -binary
+*.spr filter=lfs diff=lfs merge=lfs -binary
+*.mdl filter=lfs diff=lfs merge=lfs -binary
+*.bmp filter=lfs diff=lfs merge=lfs -binary
+*.tga filter=lfs diff=lfs merge=lfs -binary
+*.gif filter=lfs diff=lfs merge=lfs -binary
+*.pwf filter=lfs diff=lfs merge=lfs -binary
+*.pxp filter=lfs diff=lfs merge=lfs -binary
+*.exe filter=lfs diff=lfs merge=lfs -binary
+*.dll filter=lfs diff=lfs merge=lfs -binary
+*.zip filter=lfs diff=lfs merge=lfs -binary
+*.rar filter=lfs diff=lfs merge=lfs -binary
